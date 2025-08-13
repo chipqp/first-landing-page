@@ -129,7 +129,7 @@ nav {
     height: 35em;
     right: 0;
     bottom: 0;
-    background: url(img/avatar.svg) no-repeat bottom right;
+    background: url("img/avatar.svg") no-repeat bottom right;
     display: block;
     z-index: -1;
 }
@@ -199,7 +199,7 @@ nav {
 
 .devider {
     height: 1.5em; 
-    background-image: url("../img/border-dark.png");
+    background-image: url("img/border-dark.png");
     background-repeat: repeat-x;
     background-position: center;
     background-size: auto 10px;
@@ -305,15 +305,15 @@ nav {
     display: block;
     width: 2.5em;
     height: 2.5em;
-    background: url(../img/map-marker-alt-solid.svg) no-repeat center;
+    background: url("img/map-marker-alt-solid.svg") no-repeat center;
 }
 
 .contact__item--email::before {
-    background: url(../img/envelope-regular.svg) no-repeat center;
+    background: url("img/envelope-regular.svg") no-repeat center;
 }
 
 .contact__item--mobile::before {
-    background: url(../img/mobile-alt-solid.svg) no-repeat center;
+    background: url("img/mobile-alt-solid.svg") no-repeat center;
 }
 
 .form__input {
