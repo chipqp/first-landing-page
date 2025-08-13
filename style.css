@@ -129,7 +129,7 @@ nav {
     height: 35em;
     right: 0;
     bottom: 0;
-    background: url(../img/avatar.svg) no-repeat bottom right;
+    background: url(img/avatar.svg) no-repeat bottom right;
     display: block;
     z-index: -1;
 }
